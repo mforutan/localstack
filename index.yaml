@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  localstack:
+  - apiVersion: v1
+    appVersion: latest
+    created: "2020-12-06T02:39:51.716138206Z"
+    description: A Helm chart for Localstack
+    digest: c88c8ccf374aba2a0d22d59944867e6cd1dbb458b59d0fa210750d5b51411d9e
+    icon: https://github.com/localstack/localstack/raw/master/localstack/dashboard/web/img/localstack.png
+    keywords:
+    - aws
+    - localstack
+    maintainers:
+    - email: james.thomas.sidhu@gmail.com
+      name: sidhuko
+    name: localstack
+    sources:
+    - https://localstack.cloud/
+    - https://github.com/localstack/localstack
+    urls:
+    - https://github.com/mforutan/localstack/releases/download/localstack-0.1.0/localstack-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-06T02:39:51.602810508Z"
